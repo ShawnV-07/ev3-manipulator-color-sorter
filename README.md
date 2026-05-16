@@ -8,8 +8,8 @@ Built as a university group project using LEGO Mindstorms EV3 and MicroPython.
 
 ## 📸 Demo
 
-![Robot](media/Robo IMG 1.jpg)
-![Robot](media/Robo IMG 2.jpg)
+![Robot](media/Robo_IMG_1.jpg)
+![Robot](media/Robo_IMG_2.jpg)
 
 ---
 
